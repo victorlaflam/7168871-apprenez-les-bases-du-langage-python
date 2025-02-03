@@ -1,1 +1,5 @@
-# Écrivez votre code ici !
+print("Victor")
+print("28")
+print("je m'appelle Victor et j'ai 28 ans")
+(28+10)
+print("je m'appelle Victor et j'ai 38 ans maintenant")
